@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* cuyghuonfig options here */
+  /* cuyghuoonfig options here */
 };
 
 export default nextConfig;
